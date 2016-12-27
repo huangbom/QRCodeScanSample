@@ -1,0 +1,1 @@
+include ':wcsample', ':rxasample', ':zxinDemo', ':qrscansample'
