@@ -3,6 +3,8 @@
 
 > 使用了这个库:[QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView)
 
+![MacDown Screenshot](ghjk.gif)
+
 ##需要的权限
 ```
     <uses-permission android:name="android.permission.VIBRATE" />
@@ -65,5 +67,6 @@
 }
 ```
 
-> 注意:这个sample没有做权限处理，如果在Android6.0＋上因没有权限而Crash，需要手动去设置界面开启权限
+##注意
+注意:这个sample没有做权限处理，如果在Android6.0＋上因没有权限而Crash，需要手动去设置界面开启权限
 

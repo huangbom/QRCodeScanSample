@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QRCodeScanSample.iml" filepath="$PROJECT_DIR$/QRCodeScanSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qrscansample/qrscansample.iml" filepath="$PROJECT_DIR$/qrscansample/qrscansample.iml" />
       <module fileurl="file://$PROJECT_DIR$/qrscansample/qrscansample.iml" filepath="$PROJECT_DIR$/qrscansample/qrscansample.iml" />
       <module fileurl="file://$PROJECT_DIR$/rxasample/rxasample.iml" filepath="$PROJECT_DIR$/rxasample/rxasample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rxasample/rxasample.iml" filepath="$PROJECT_DIR$/rxasample/rxasample.iml" />
       <module fileurl="file://$PROJECT_DIR$/wcsample/wcsample.iml" filepath="$PROJECT_DIR$/wcsample/wcsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wcsample/wcsample.iml" filepath="$PROJECT_DIR$/wcsample/wcsample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxinDemo/zxinDemo.iml" filepath="$PROJECT_DIR$/zxinDemo/zxinDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/zxinDemo/zxinDemo.iml" filepath="$PROJECT_DIR$/zxinDemo/zxinDemo.iml" />
     </modules>
   </component>

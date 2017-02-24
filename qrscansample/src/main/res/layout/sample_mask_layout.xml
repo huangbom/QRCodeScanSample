@@ -80,7 +80,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:text="哈啊哈哈你设法吉林省"
+            android:text="这是一段描述"
             android:alpha="0.4"
             />
         </FrameLayout>
