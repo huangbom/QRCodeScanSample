@@ -1,11 +1,11 @@
-
-#二维码扫描示例
+二维码扫描示例
+===========================
 
 > 使用了这个库:[QRCodeReaderView](https://github.com/dlazaro66/QRCodeReaderView)
 
 ![MacDown Screenshot](ghjk.gif)
 
-##需要的权限
+## 需要的权限 
 ```
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="android.permission.CAMERA" />
@@ -13,7 +13,7 @@
     <uses-feature android:name="android.hardware.camera.autofocus" />
 ```
 
-##使用
+## 使用
 
 ```java
     public class DecoderActivity extends Activity implements OnQRCodeReadListener {
@@ -67,6 +67,6 @@
 }
 ```
 
-##注意
+## 注意
 注意:这个sample没有做权限处理，如果在Android6.0＋上因没有权限而Crash，需要手动去设置界面开启权限
 
